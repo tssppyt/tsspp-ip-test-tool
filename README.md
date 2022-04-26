@@ -1,2 +1,2 @@
-# tsspp-ip-test-tool
-this is a ip testing tool
+This was made by TSSPP
+This is to be used as a penatrtaiton
